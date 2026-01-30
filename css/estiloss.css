@@ -1,0 +1,56 @@
+body {
+    font-family: "Story Script", sans-serif;
+    color: rgb(1, 7, 12);
+    background-color:rgb(157, 226, 232);
+    font-size: 14px;
+    margin: 20px auto 0 auto;
+    width: 1450px;
+    border: 5px solid rgb(114, 162, 186); 
+
+
+}
+
+p {
+    text-transform: capitalize;
+    font-variant: initial;
+    word-spacing: 5px;
+}
+h1 {
+
+    color: rgb(15, 50, 46);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+h2 {
+    color: rgb(54, 92, 87);
+    background-color: rgb(175, 255, 234);
+
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(180, 226, 225);
+    padding: 5px;
+}
+
+h3 {
+    font-style: italic;
+}
+ 
+header{
+    background-color: rgb(180, 226, 225);  
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+    
+    nav {
+    font-style: oblique  ;
+    text-align: center;
+}
+}
+a {
+    color: rgb(0, 143, 143);
+    text-decoration: none;
+}
